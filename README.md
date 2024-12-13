@@ -9,7 +9,7 @@ SplitJson is a versatile command-line utility designed to split a large JSON fil
 - Each output file is a valid JSON array, making it ready for further processing or analysis.
 - Robust error handling to manage and report issues during the file splitting process.
 
-$ Usage:
+# Usage:
 
 The utility is invoked from the command line with two arguments: the path to the source JSON file and the number of smaller files to split into. For example:
 
