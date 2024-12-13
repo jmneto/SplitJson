@@ -1,6 +1,6 @@
 # SplitJson
 
-SplitJson is a versatile command-line utility designed to split a large JSON file into multiple smaller JSON files. This tool is particularly useful for handling large datasets that need to be divided for easier processing or distribution. The program takes a source JSON file and the number of smaller files you want to split it into as inputs, and efficiently distributes the JSON objects across the specified number of output files.
+SplitJson is a sample command-line utility designed to split a large JSON file into multiple smaller JSON files. This tool is particularly useful for handling large datasets that need to be divided for easier processing or distribution. The program takes a source JSON file and the number of smaller files you want to split it into as inputs, and efficiently distributes the JSON objects across the specified number of output files.
 
 # Features:
 - Command-line interface for easy integration with scripts and automation workflows.
@@ -23,5 +23,5 @@ This tool is ideal for developers, data scientists, and system administrators wh
 
 # Note
 
-The code is not generic. For efficiency the Type existing in the Json array must be created as an Object inside the code. 
+The code is not generic. For efficiency the Type existing in the Json array must be manually defined as a class inside the code. 
 
