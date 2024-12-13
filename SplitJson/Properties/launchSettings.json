@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SplitJson": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\temp\\AllMailboxes Custom Attributes.json\" 2"
+    }
+  }
+}
